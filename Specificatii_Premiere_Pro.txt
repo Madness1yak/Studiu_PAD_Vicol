@@ -1,0 +1,17 @@
+
+Cerințe minime
+
+• Sistem de operare: Windows 10 (64-bit) / Windows 11 sau macOS 12.0+ (sau versiuni mai noi, precum Windows 11 v24H2 / macOS Sonoma pe versiunile recente).
+• Procesor (CPU): Intel generația a 6-a sau AMD Ryzen seria 1000 (cu suport AVX2).
+• Memorie RAM: 8 GB RAM (16 GB pe Windows on Arm).
+• Placă video (GPU): minim 2 GB – 4 GB VRAM (cu suport DirectX 12 pe Windows).
+• Stocare: minim 8 GB spațiu disponibil pentru instalare (SSD recomandat).
+• Rezoluție ecran: 1280x800 sau 1920x1080.
+
+Cerințe recomandate
+
+• Procesor (CPU): Intel Core i7/i9 (generația 11/12+) cu Quick Sync sau AMD Ryzen 7/9 (seria 3000/5000+) / Apple Silicon M1+.
+• Memorie RAM: 16 GB pentru editare HD; 32 GB sau mai mult pentru 4K și rezoluții superioare.
+• Placă video (GPU): placă dedicată cu 6 GB – 8 GB+ VRAM (ex. seria NVIDIA RTX) și accelerare hardware activată.
+• Stocare: SSD intern rapid / NVMe (1 TB+ recomandat pentru proiecte și cache).
+• Rezoluție ecran: 1920x1080
